@@ -39,20 +39,48 @@ Demos are available at [here](https://aannoonnyymous.github.io/v2m/).
   </thead>
   <tbody>
     <tr>
-      <td><video width="250" controls><source src="videos/diff-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="250" controls><source src="videos/vidmuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="250" controls><source src="videos/gvmgen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="250" controls><source src="videos/mumu-llama.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="250" controls><source src="videos/video2music.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="250" controls><source src="videos/cmt.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/212_7.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/212_7-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/212_7-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/212_7-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/212_7-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/212_7-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
     </tr>
+    
     <tr>
-      <td><video width="250" controls><source src="videos/diff-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="250" controls><source src="videos/vidmuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="250" controls><source src="videos/gvmgen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="250" controls><source src="videos/mumu-llama.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="250" controls><source src="videos/video2music.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
-      <td><video width="250" controls><source src="videos/cmt.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/103_13.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/103_13-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/103_13-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/103_13-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/103_13-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/103_13-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+    </tr>
+
+    <tr>
+      <td><video width="250" controls><source src="video/BGM-demo/88_3.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/88_3-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/88_3-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/88_3-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/88_3-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/88_3-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+    </tr>
+
+    <tr>
+      <td><video width="250" controls><source src="video/BGM-demo/180_4.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/180_4-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/180_4-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/180_4-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/180_4-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/180_4-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+    </tr>
+
+    <tr>
+      <td><video width="250" controls><source src="video/BGM-demo/600_11.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/600_11-VidMuse.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/600_11-GVMGen.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/600_11-MuMu.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/600_11-v2m.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
+      <td><video width="250" controls><source src="video/BGM-demo/600_11-CMT.mp4" type="video/mp4">Your browser does not support the video tag.</video></td>
     </tr>
   </tbody>
 </table>
